@@ -5,3 +5,5 @@ this repository will have all works / smaller patches of the larger work except 
 
 
 You'll need FluCoMa for SGIN & Pompidou. Enceladus I, SGIN I, & Diemos I also use Output's granular plugin Portal, Enceladus II, Diemos II, & SGIN II do not require this.
+
+Pompidou also requires RTC-Lib..
